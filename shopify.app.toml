@@ -2,7 +2,7 @@
 
 client_id = "b7dd2374e198af6781110e3ee6f9bb4b"
 name = "remix-app-1"
-application_url = "https://stewart-navy-hotel-italy.trycloudflare.com"
+application_url = "https://funny-boxes-rc-customer.trycloudflare.com"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://stewart-navy-hotel-italy.trycloudflare.com/auth/callback",
-  "https://stewart-navy-hotel-italy.trycloudflare.com/auth/shopify/callback",
-  "https://stewart-navy-hotel-italy.trycloudflare.com/api/auth/callback"
+  "https://funny-boxes-rc-customer.trycloudflare.com/auth/callback",
+  "https://funny-boxes-rc-customer.trycloudflare.com/auth/shopify/callback",
+  "https://funny-boxes-rc-customer.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
